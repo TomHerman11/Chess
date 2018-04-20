@@ -1,0 +1,15 @@
+black
+SETTINGS:
+GAME_MODE: 1-player
+DIFFICULTY: moderate
+USER_COLOR: black
+8| _ _ _ K Q r _ _ |
+7| _ _ _ _ _ _ _ q |
+6| _ _ _ M _ _ _ _ |
+5| _ _ _ _ _ _ m _ |
+4| _ _ _ _ _ _ _ _ |
+3| _ _ _ b r _ _ _ |
+2| _ _ _ _ m k _ _ |
+1| _ _ _ _ _ _ _ _ |
+  -----------------
+   A B C D E F G H
