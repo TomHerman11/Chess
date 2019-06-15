@@ -1,4 +1,4 @@
 # Chess
-
-This project was made as the final project in the university (Tel Aviv University) course called "Software Project".
-All of the work was made by 2 students: a colleague from the course, and me.
+Main software project of B.Sc Computer Science at Tel Aviv University.\
+The code was implemented by another colleague, and me.\
+Enjoy!
