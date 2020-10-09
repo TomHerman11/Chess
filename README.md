@@ -1,4 +1,4 @@
 # Chess
 Main software project of B.Sc of Computer Science, Tel Aviv University.\
-The code was implemented by another colleague, and me.\
+My colleague and I collaborated together to write the code.
 Enjoy!
